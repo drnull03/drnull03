@@ -28,5 +28,8 @@ also feel free to contact me if you have general question concering Computers or
 
 My GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=drnull03&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<br/>
+<br/>
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drnull03&layout=compact&theme=radical&hide_border=true)
